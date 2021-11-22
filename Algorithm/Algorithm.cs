@@ -19,6 +19,7 @@ public class Program
         double target = 2023;
 
         double x = Method(target);
+        
         Console.WriteLine(x);
         Console.WriteLine(x * x);
     }
